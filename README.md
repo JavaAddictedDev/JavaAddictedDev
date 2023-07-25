@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <p align="left">A backend developer passionate about software development and I'm always looking to improve my technical skills and theoretical knowledge. One of my main areas of specialization is development in Java EE and Spring, two robust and scalable technologies that allow the creation of efficient and well-structured solutions. In addition, I have a great passion for algorithms and for solving complex problems, always looking for the best solutions to the challenges that arise in everyday life. I also maintain a responsible and mature attitude towards my work, following good practices and keeping a clean and organized code. The search for stable and proven effective technologies is essential to guarantee the quality of projects and facilitate their maintenance and evolution in the future. In this way, I dedicate myself to studying and understanding the most advanced and consolidated technologies on the market, in order to offer customers the best possible solutions. Finally, I highlight the importance of my portfolio on GitHub as a way to demonstrate all my knowledge and experience in software development. I believe it is important to share my projects and solutions with the community, further improving my skills and confident for the advancement of technology. I am always looking for new challenges and opportunities to grow and develop myself professionally, and I look forward to working on interesting and challenging projects in the future..</p>
 
-- 🔭 I’m currently working on **Brewer**
+- 🔭 I’m currently working on **NLP with Java, C++ and advanced Algorithms**
 
 - 🌱 I’m currently learning **Spring, Hibernate**
 
-- 💬 Ask me about **Java EE, Spring**
+- 💬 Ask me about **anything about Java EE, Jakarta EE**
 
 - 📫 How to reach me **gabrielvaldivia.programming@gmail.com**
 
