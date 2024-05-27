@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<p align="left">First and foremost, a technology enthusiast, software development lover and I'm always looking to improve my technical skills and theoretical knowledge. My main area of expertise is Jakarta (Java) EE.
+<p align="left">First and foremost, a technology enthusiast, software development lover and I'm always looking to improve my technical skills and theoretical knowledge. My main area of expertise is Java and Jakarta EE.
 In addition, I have a huge passion for algorithms and for solving complex problems, always looking for the best solutions to the challenges that arise in everyday life. I dedicate myself daily to self-study studies through books and documentation in order to master technologies based on market needs.
 
 I'm always looking for new opportunities to work on interesting and challenging projects.</p>
 
-- 🔭 I’m currently working on **NLP with Java, C++ and advanced Algorithms**
+- 🔭 I’m currently working on **Web Projects using JSF, JAX-RS, JPA, EJB, WebSockets and JavaMail**
 
-- 🌱 I’m currently learning **Spring, Hibernate**
+- 🌱 I’m currently learning about **JMS and SOA, Event-Driven and Microservices Architecture**
 
-- 💬 Ask me about **anything about Java EE, Jakarta EE**
+- 💬 Ask me about **anything about Java EE**
 
-- 📫 How to reach me **gabrielvaldivia.programming@gmail.com**
+- 📫 How to reach me **gabrielvaldivia.dev@outlook.com**
 
 - ⚡ Fun fact **I hated programming (for not knowing how to program) until my last year of high school**
 
