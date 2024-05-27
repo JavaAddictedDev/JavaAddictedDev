@@ -6,7 +6,7 @@ I'm always looking for new opportunities to work on interesting and challenging 
 
 - 🔭 I’m currently working on **Web Projects using JSF, JAX-RS, JPA, EJB, WebSockets and JavaMail**
 
-- 🌱 I’m currently learning about **JMS and SOA, Event-Driven and Microservices Architecture**
+- 🌱 I’m currently learning about **SOA, Event-Driven, JMS and Microservices Architecture**
 
 - 💬 Ask me about **anything about Java EE**
 
