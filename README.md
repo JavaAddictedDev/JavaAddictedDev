@@ -4,9 +4,9 @@ In addition, I have a huge passion for algorithms and for solving complex proble
 
 I'm always looking for new opportunities to work on interesting and challenging projects.</p>
 
-- 🔭 I’m currently working on **Web Projects using JSF, JAX-RS, JPA, EJB, WebSockets and JavaMail**
+- 🔭 I’m currently working on **[Micrecred](https://github.com/JavaAddictedDev/microcred_msclientes)**
 
-- 🌱 I’m currently learning about **SOA, Event-Driven, JMS and Microservices Architecture**
+- 🌱 I’m currently learning about **Spring Boot, Event-Driven, JMS and Microservices Architecture**
 
 - 💬 Ask me about **anything about Java EE**
 
