@@ -4,7 +4,7 @@ In addition, I have a huge passion for algorithms and for solving complex proble
 
 I'm always looking for new opportunities to work on interesting and challenging projects.</p>
 
-- 🔭 I’m currently working on **[Microcred](https://github.com/JavaAddictedDev/microcred_msclientes)**
+- 🔭 I’m currently working on **[Microcred](https://github.com/JavaAddictedDev/microcred)**
 
 - 🌱 I’m currently learning about **Spring Boot, Event-Driven, JMS and Microservices Architecture**
 
